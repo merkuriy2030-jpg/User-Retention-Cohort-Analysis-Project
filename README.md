@@ -23,7 +23,7 @@ Successfully transformed thousands of database rows into an interactive, readabl
 ---
 
 ## 🔗 Project Materials
-* 📂 [View SQL Script](./cohort_analysis.sql) *(замініть на назву вашого .sql файлу в репозиторії)*
+* 📂 [View SQL Script](User-Retention-Cohort-Analysis-Project) 
 * 📊 [Open Interactive Google Sheets Dashboard](https://your-google-sheets-link-here.com) *(вставте сюди посилання на вашу Google-таблицю)*
 
 
